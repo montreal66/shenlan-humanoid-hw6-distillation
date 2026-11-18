@@ -10,9 +10,9 @@ This repository is a reproducible snapshot of the HW6 G1 tracking/distillation e
 
 ## Figures
 
-### Teacher PPO comparison
+### Training trends
 
-![Teacher PPO comparison](figures/teacher-vs-direct-ppo-1000.png)
+![Training trends](figures/tb-training-trends.png)
 
 ### Action-MSE students and their teachers
 
